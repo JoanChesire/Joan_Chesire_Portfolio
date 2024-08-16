@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Zindi_Wildfire-Prediction-Challenge",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Machine learning hackathon in creating a model capable of predicting the burned area in different locations over 2014 to 2016. The model I used was a combined simple average model of a Catboost Regressor and  Random Forest Regressor. Ranked 30 overall in the hackathon.",
+    url: "https://github.com/JoanChesire/Zindi_Wildfire-Prediction-Challenge",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Maji ndogo SQL Analysis",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Contributed to analysing different aspects of Maji ndogo database to help with their accesibility of clean water. I utilised MySQL skills  to do so.",
+    url: "https://github.com/JoanChesire/MAJI_NDOGO-SQL-ANALYSIS",
   },
   {
-    title: "My Resume Site",
+    title: "My Curriculum Vitae",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Created from Google docs and showcases my working experience .",
+    url: "https://drive.google.com/file/d/1xXy_zFfcpka_esUoZ2pYkxKkSSMjFv_L/view?usp=sharing",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Insurance Fraud Detection",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Performed Explaratory data analysis on Insurance data utilising pandas for data manipulation and analysis ,mumpy for computations and matplotlib pyplot for plotting and visualisations .",
+    url: "https://github.com/JoanChesire/Insurance_Fraud_Detection",
   },
 ];
 
