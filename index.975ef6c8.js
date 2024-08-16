@@ -27092,7 +27092,7 @@ var _stylesCss = require("./styles.css");
     email: "",
     gitHub: "JoanChesire",
     instagram: "",
-    linkedIn: "linkedin.com/in/joan-chesire-7b11aa130",
+    linkedIn: "https://www.linkedin.com/in/joan-chesire-7b11aa130",
     medium: "",
     twitter: "@Chesirejoan",
     youTube: ""
@@ -27187,12 +27187,12 @@ const imageAltText = "purple and blue abstract background";
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */ const skillsList = [
-    "Web design",
-    "User experience",
-    "Inclusive design",
-    "Focus group testing",
-    "Mobile user interfaces",
-    "Graphic design", 
+    "Python Programming",
+    "SQL",
+    "Data Visualization using Power Bi",
+    "Data Analysis using Ms Excel",
+    "Machine Learning and Deep Learning",
+    "Effective Commnication", 
 ];
 /**
  * Use this to give more information about what you are passionate about,
@@ -28616,15 +28616,15 @@ var _propTypesDefault = parcelHelpers.interopDefault(_propTypes);
  * Home background image
  *
  * Below is a sample image. Upload the image of your choice into the "images"
- * directory and import here for use. Then, set imageAltText to string that 
+ * directory and import here for use. Then, set imageAltText to string that
  * represents what you see in that image.
  *
  *
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
- */ var _womanWithTabletJpg = require("../images/woman-with-tablet.jpg");
-var _womanWithTabletJpgDefault = parcelHelpers.interopDefault(_womanWithTabletJpg);
-const imageAltText = "Adult female in office setting leaning against a glass wall while holding a platinum Microsoft Surface Pro 7 in tablet mode preparing to write with Microsoft Surface Pen";
+ */ var _20221020142850Jpg = require("../images/20221020_142850.jpg");
+var _20221020142850JpgDefault = parcelHelpers.interopDefault(_20221020142850Jpg);
+const imageAltText = "A photo of Joan Chesire";
 const Home = ({ name , title  })=>{
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("section", {
         id: "home",
@@ -28632,7 +28632,7 @@ const Home = ({ name , title  })=>{
         children: [
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
                 className: "background",
-                src: (0, _womanWithTabletJpgDefault.default),
+                src: (0, _20221020142850JpgDefault.default),
                 alt: ""
             }, void 0, false, {
                 fileName: "src/Components/Home.jsx",
@@ -28715,11 +28715,11 @@ $RefreshReg$(_c, "Home");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","../images/down-arrow.svg":"b5nCi","prop-types":"7wKI2","../images/woman-with-tablet.jpg":"bEltf","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"b5nCi":[function(require,module,exports) {
+},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","../images/down-arrow.svg":"b5nCi","prop-types":"7wKI2","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","../images/20221020_142850.jpg":"lzM65"}],"b5nCi":[function(require,module,exports) {
 module.exports = require("./helpers/bundle-url").getBundleURL("bLxZJ") + "down-arrow.1037091f.svg" + "?" + Date.now();
 
-},{"./helpers/bundle-url":"lgJ39"}],"bEltf":[function(require,module,exports) {
-module.exports = require("./helpers/bundle-url").getBundleURL("bLxZJ") + "woman-with-tablet.b3bf1156.jpg" + "?" + Date.now();
+},{"./helpers/bundle-url":"lgJ39"}],"lzM65":[function(require,module,exports) {
+module.exports = require("./helpers/bundle-url").getBundleURL("bLxZJ") + "20221020_142850.462e7f09.jpg" + "?" + Date.now();
 
 },{"./helpers/bundle-url":"lgJ39"}],"lCaEt":[function(require,module,exports) {
 var $parcel$ReactRefreshHelpers$ed0d = require("@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
