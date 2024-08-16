@@ -44,8 +44,7 @@ const projectList = [
   },
   {
     title: "My Curriculum Vitae",
-    description:
-      "Created from Google docs and showcases my working experience .",
+    description: "Created from Google docs and showcases my working experience .",
     url: "https://drive.google.com/file/d/1xXy_zFfcpka_esUoZ2pYkxKkSSMjFv_L/view?usp=sharing",
   },
   {
