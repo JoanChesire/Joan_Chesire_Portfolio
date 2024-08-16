@@ -29,7 +29,7 @@ const siteProps = {
   email: "",
   gitHub: "JoanChesire",
   instagram: "",
-  linkedIn: "linkedin.com/in/joan-chesire-7b11aa130",
+  linkedIn: "joan-chesire",
   medium: "",
   twitter: "@Chesirejoan",
   youTube: "",
