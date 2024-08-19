@@ -27092,7 +27092,7 @@ var _stylesCss = require("./styles.css");
     email: "",
     gitHub: "JoanChesire",
     instagram: "",
-    linkedIn: "linkedin.com/in/joan-chesire-7b11aa130",
+    linkedIn: "@joan-chesire",
     medium: "",
     twitter: "@Chesirejoan",
     youTube: ""
@@ -28771,7 +28771,7 @@ const imageAltText = "desktop with books and laptop";
     {
         title: "My Curriculum Vitae",
         description: "Created from Google docs and showcases my working experience .",
-        url: "https://drive.google.com/file/d/1xXy_zFfcpka_esUoZ2pYkxKkSSMjFv_L/view?usp=sharing"
+        url: "https://drive.google.com/file/d/1jwPGb6hk192AGxcyTQ-pbNLmF7uPZqL9/view?usp=sharing"
     },
     {
         title: "Insurance Fraud Detection",
