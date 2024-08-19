@@ -27092,7 +27092,7 @@ var _stylesCss = require("./styles.css");
     email: "",
     gitHub: "JoanChesire",
     instagram: "",
-    linkedIn: "joanchesire",
+    linkedIn: "Joan Chesire",
     medium: "",
     twitter: "@Chesirejoan",
     youTube: ""
